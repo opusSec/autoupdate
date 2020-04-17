@@ -1,0 +1,23 @@
+# Autoupdate Tool
+
+Kali Linux Auto-installer Script
+
+1.-CLONE THE ZIP FILE  
+
+git clone https://github.com/opusSec/autoupdate 
+
+THE M 
+
+2.-UNZIP THE FILES 
+
+unzip AUP.zip.zip 
+
+cd autoupdate/AUP.zip
+
+3.-OPEN DIR AS ROOT & INSTALL 
+
+chmod +x auto.sh
+
+4.-RUN 
+
+./auto.sh
